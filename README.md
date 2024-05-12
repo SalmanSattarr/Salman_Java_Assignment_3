@@ -9,3 +9,5 @@
 4. complete the Form class:
    - add a Form with 3 fields to the Form class (applicantName, address, phone number)
    - add a fillForm method to the Form class
+  
+5. Add a printForm method to the main driver class.
