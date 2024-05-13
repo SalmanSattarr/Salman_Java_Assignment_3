@@ -4,8 +4,6 @@
      
 2. Fix/improve all PRINT statements! (with color as well, research)
    
-3. Add a validation method for the Book an appointment method/option/feature
-   
 4. complete the Form class:
    - add a Form with 3 fields to the Form class (applicantName, address, phone number)
    - add a fillForm method to the Form class
